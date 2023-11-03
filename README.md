@@ -1,10 +1,10 @@
 # Resume
 My journey!
 
-                                                                               Khem Bhattrai 
-							                                                                 Data Analyst
-                                                     Louisville, KY 40218; www.linkedin.com/in/khembhattrai2022/  
-                                                               502-202-9206 Khempbhattarai10@gmail.com 
+Khem Bhattrai 
+Data Analyst
+Louisville, KY 40218; www.linkedin.com/in/khembhattrai2022/  
+502-202-9206 Khempbhattarai10@gmail.com 
 
 EDUCATION
 Bachelor of Science: Computer Information Systems-Data Analytics Track (BSBA)                     Expected 12/2023 
