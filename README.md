@@ -1,42 +1,77 @@
 # Resume
 My journey!
 
-Khem Bhattrai 
-Data Analyst
+Khem Bhattrai Data Analyst
+
 Louisville, KY 40218; www.linkedin.com/in/khembhattrai2022/  
+
 502-202-9206 Khempbhattarai10@gmail.com 
 
-EDUCATION
-Bachelor of Science: Computer Information Systems-Data Analytics Track (BSBA)                     Expected 12/2023 
-University of Louisville, Louisville, KY
-RELEVANT COURSEWORK:  
-Analytics Programming 	Information Systems in Org   
-Data Analytics 	Software Development   
-Data Analysis for Decision-Making 	Informatics System Fundamental 
+ 	             EDUCATION  	
+Bachelor of Science: CIS (Data Analytic) 							Expected 12/2023
+The University of Louisville, Louisville, KY 
+	        
+         SKILLS   	
 
-Technical Skills  
-SQL				Python				HTML  Quality Assurance 		CSS and JavaScript		Office 365 Programs 
-Power BI			Service Task			Power shell
+•	SQL •	Quality Assurance •	Power BI • Python	
 
-Professional Experience  
-Intern- Contract 	 	 	 	 	 	 	 	 	 June 2022– May 2023  
-Humana Information Technology department; Louisville, KY                                                
-•	Researched and resolved technical problems of moderate complexity, typically escalated from first-line support teams  
-•	Responds to escalated telephone, email, and online requests for technical support  
-•	Documents, tracks, and monitors the problem using applicable systems and tools. 
+•	CSS and JavaScript •	Service Task •	HTML •	Power Shell
 
-Humana SRE, Remote										       May 2023-Aug 2023
-•	Monitor Datasets
-•	Create Dynatrace Dashboard
+ 	   EXPERIENCE
+     
+Help Desk Intern (Humana) 
 
-Certifications
-•	IBM - Getting Started with Enterprise-grade AI.
-•	IBM – Getting Started with Enterprise Data Science
-•	LinkedIn - NumPy Essential Training: 1 Foundation of NumPy
+•	Researched and resolved Thousands of technical problems of moderate complexity, typically escalated from first-line support teams. 
 
-LEADERSHIP & INVOLVEMENT   
-Member, UofL TRIO Student Support Services 	 	                                                                     Aug 2021-Present  Member, Bhutanese-Nepalese community soccer team                                                                       May 2017- Present               
-Volunteer, Baha’is of Louisville 	 	       	 	 	                                                     May 2015 -Jan 2020  
-Member, Bhutanese-Nepalese Hindu Community of Louisville, KY 			           Aug 2016-Sept 2020
+•	Responded to escalated Thousands of telephones, email, and online requests for technical support. 
 
+•	Documents, tracks, and monitors hundreds of problems using applicable systems and tools.
 
+SRE Intern (Humana)
+•	Understanding the infrastructure, systems, and tools used within the company's tech stack.
+•	Observing and learning from experienced SREs in their day-to-day tasks and responsibilities.
+•	Monitoring system performance and participating in incident response activities.
+•	Contributing to ongoing projects related to system reliability, automation, or infrastructure enhancements.
+
+	   CERTIFICATIONS
+    
+•	IBM- Getting Started with Enterprise-Grade AI
+
+•	IBM- Getting started with Enterprise Data Science 
+
+•	LinkedIn- NumPy Essential Training: 1 Foundation of NumPy
+
+	   RELEVANT COURSEWORK   	
+
+CIS-443 Analytics Programming (Python)
+
+•	Acquire skills in data cleaning, manipulation, and visualization.
+
+•	Understand fundamental statistical and machine learning concepts.
+
+•	Apply analytics programming skills to solve real-world problems.
+ 
+CIS-450-Power BI
+
+•	Develop skills in importing, transforming, and modeling data for business intelligence.
+
+•Create interactive and visually appealing reports and dashboards.
+
+•	Apply advanced analytics using DAX expressions.
+
+•	Understand how to publish, share, and collaborate on Power BI projects.
+
+CIS-310 Database Design
+
+•	Gain a strong understanding of relational database concepts and normalization.
+
+•	Develop practical skills in designing and implementing databases.
+
+•	Proficient in using SQL for interacting with databases.
+
+•	Understand the importance of data integrity and consistency in database design.
+
+CIS 205/305
+
+•	Spreadsheet and database modeling/ programming concepts and techniques for solving business 
+problems; efficient/ effective data processing, computational analysis, and decision support.
